@@ -1,0 +1,16 @@
+nav ol li
+{
+display: inline-block ;
+background-color:hsl(0, 100%, 85%)
+
+}
+
+a{
+
+
+  margin-right: 80px;
+  color: #ffb3b3 ;
+}
+h1{
+  border :2px solid #ffb3b3;
+}
