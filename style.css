@@ -1,15 +1,15 @@
 nav ol li
 {
 display: inline-block ;
-background-color:hsl(0, 100%, 85%)
+margin-right: 20px;
+
 
 }
 
 a{
 
-
-  margin-right: 80px;
-  color: #ffb3b3 ;
+  margin-right: 100px;
+  
 }
 h1{
   border :2px solid #ffb3b3;
@@ -19,6 +19,14 @@ header{
   background-color:#e6e6ff ;
 
 }
+body {
+  background-image: url('m.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
 
 
 
