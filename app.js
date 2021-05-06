@@ -34,6 +34,7 @@ var colorflower = prompt("what do you want color flower ?")
   var flowersNum =prompt("how many flowers do you want to buy")
   var image=''
   for(var i=0; i< flowersNum ; i++){
+    
     image=image +'<img src="c.jpg">'
   }
   document.write(image)
