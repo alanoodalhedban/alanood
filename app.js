@@ -26,9 +26,7 @@ var colorflower = prompt("what do you want color flower ?")
   //input validation
 
   var username =prompt("Enter  your username ")
-  function login()
-{
-    
+  
   while(username!=='alanood')
   {
     username= prompt('Incorrect again enter  the correct username')
@@ -41,8 +39,7 @@ var colorflower = prompt("what do you want color flower ?")
     image=image +'<img src="c.jpg">'
    }
   document.write(image)
- }
-login()
+
 
 
 
